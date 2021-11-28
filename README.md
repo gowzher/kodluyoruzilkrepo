@@ -2,7 +2,7 @@
 ## installation
 öncelikle projeyi clonelayın(buraya sizin reponuzdan aldığınız link gelecek)
 ```
-[git clone](https:google.com)
+[git clone](https://github.com/gowzher/kodluyoruzilkrepo.git)
 ```
 ## Usage
 projeyi cloneladıkdan sonra Visual Studio Code programında açınız
